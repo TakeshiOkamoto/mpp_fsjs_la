@@ -1,7 +1,7 @@
 <?php
 
 // 元ファイル
-// https://readouble.com/laravel/6.x/ja/validation-php.html
+// https://readouble.com/laravel/6.x/ja/validation-php.html 
 //
 
 return [
