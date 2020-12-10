@@ -1,7 +1,7 @@
 # 青色申告決算書＆仕訳帳システム 
 
 個人事業主用の「青色申告決算書の作成支援」と「仕訳帳を管理」するシステムです。  
-初心者でも扱いやすいように基本的な「仕訳の記入例」を付属しています。
+初心者でも扱いやすいように基本的な「仕訳の記入例」を付属しています。　
   
 DEMO    
 [https://www.petitmonte.com/dev/mpp_fsjs_la/](https://www.petitmonte.com/dev/mpp_fsjs_la/)  
