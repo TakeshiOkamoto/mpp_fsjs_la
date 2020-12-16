@@ -137,7 +137,7 @@ name、email、passwordの値は自由に設定して下さい。
 ### シーディング
 次のコマンドで勘定科目のデータをデータベースに自動的に挿入します。
 ```rb
-シーディング準備
+シーディングの準備
 composer dump-autoload
 シーディングの実行
 php artisan db:seed
